@@ -1,4 +1,3 @@
--- Obfuscated Lua payload. This is lightweight source obfuscation, not encryption.
 local _p = table.concat({
     "6oYbAn5r63R2QSJPKHAv+tvxcdeCgj1S2wxtR3NvJMGGHMZhJFCgKjgNoA7IN2En1+3If3EvnOx33DWz8xbwXB+7XUV6tOzJzqSO",
     "aWHUYSI8c7cSBsCAXw1w2Y1ybGTyzFuli/812GRpQCwJ23cDyxc6NMCjXyE3duwwNAo6RZZy3aeT2Ddt/Ma8gO+bH6dieofbVlYP",
